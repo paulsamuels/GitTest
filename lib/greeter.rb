@@ -1,4 +1,4 @@
-module Greeter
+class Greeter
   def self.greet
     puts "Hello, World!"
   end
